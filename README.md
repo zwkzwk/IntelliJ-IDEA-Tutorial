@@ -4,9 +4,15 @@
 <img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
 </a>
 
+## 新的起点
+
+- CDK8S：<https://mp.weixin.qq.com/s/fITEVy3IEhI4HOyTXRp9ig>
+- TKey：<https://www.oschina.net/p/tkey>
+
 ## 特别事件
 
-- IntelliJ IDEA 2019.1 发布（2019-03-28-撒花）
+- IntelliJ IDEA 2019.2 发布（2019-07-25 性能提升明显）
+- IntelliJ IDEA 2019.1 发布（2019-03-28）
 - IntelliJ IDEA 2018.3 发布（2018-11-21）
 - IntelliJ IDEA 2018.2 发布（2018-07-25）
 	- 新特性列表：<http://www.jetbrains.com/idea/whatsnew>
@@ -19,14 +25,14 @@
 ## 介绍(Introduce)
 
 - 本套教程适用于：
-	- [IntelliJ IDEA 14、15、2016、2017、2018 版本](https://www.jetbrains.com/idea/)
-	- [WebStorm 2016、2017、2018 版本](https://www.jetbrains.com/webstorm)
-	- [PhpStorm 2016、2017、2018 版本](https://www.jetbrains.com/phpstorm)
-	- [PyCharm 2016、2017、2018 版本](https://www.jetbrains.com/pycharm)
-	- [RubyMine 2016、2017、2018 版本](https://www.jetbrains.com/ruby)
-	- [Goland 2017、2018 版本](https://www.jetbrains.com/go)
-	- [CLion 2017、2018 版本](https://www.jetbrains.com/clion)
-	- [DataGrip 2016、2017、2018 版本](https://www.jetbrains.com/datagrip)
+	- [IntelliJ IDEA 14、15、2016、2017、2018、2019 版本](https://www.jetbrains.com/idea/)
+	- [WebStorm 2016、2017、2018、2019 版本](https://www.jetbrains.com/webstorm)
+	- [PhpStorm 2016、2017、2018、2019 版本](https://www.jetbrains.com/phpstorm)
+	- [PyCharm 2016、2017、2018、2019 版本](https://www.jetbrains.com/pycharm)
+	- [RubyMine 2016、2017、2018、2019 版本](https://www.jetbrains.com/ruby)
+	- [Goland 2017、2018、2019 版本](https://www.jetbrains.com/go)
+	- [CLion 2017、2018、2019 版本](https://www.jetbrains.com/clion)
+	- [DataGrip 2016、2017、2018、2019 版本](https://www.jetbrains.com/datagrip)
 	- [Android Studio 任何版本](https://developer.android.com/studio/index.html?hl=zh-cn)
 - 教程主要面向中文用户，如果你英文良好，建议直接阅读官网帮助文档
 	- 官网帮助中心：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
